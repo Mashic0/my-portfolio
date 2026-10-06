@@ -1,0 +1,188 @@
+{
+  "personal": {
+    "name": "Marcelo Urgilez",
+    "role": "Junior Software Developer",
+    "location": "Cuenca, Ecuador",
+    "email": "marcexavup1997@outlook.com",
+    "phone": "0999975345",
+    "github": "https://github.com/Mashic0",
+    "linkedin": "https://www.linkedin.com/in/marcelo-urgilez-1a27a7436/",
+    "photo": "profile.jpg"
+  },
+  "home": {
+    "eyebrow": "Junior Software Developer",
+    "title": "Construyo soluciones de software con propósito.",
+    "description": "Tecnólogo en Desarrollo de Software, recién graduado, con experiencia académica y profesional en desarrollo web, móvil y backend. Me interesa transformar problemas reales en aplicaciones funcionales, mantenibles y centradas en las personas.",
+    "primaryAction": "Ver proyectos",
+    "secondaryAction": "Contáctame"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "paragraphs": [
+      "Soy Tecnólogo en Desarrollo de Software y desarrollador junior con experiencia en proyectos web, móviles y de escritorio. Durante mi formación participé en proyectos que combinan frontend, backend, bases de datos, servicios en la nube e IoT.",
+      "Mi experiencia incluye React, React Native, Angular, TypeScript, Java, Spring Boot, Flutter y bases de datos SQL y NoSQL. También he trabajado en equipos bajo metodología Scrum y en una práctica profesional desarrollando software empresarial.",
+      "Me interesa seguir creciendo como desarrollador, aprender nuevas herramientas y aportar en equipos donde pueda convertir requerimientos en soluciones de software claras, útiles y mantenibles."
+    ],
+    "highlights": [
+      "Desarrollo web y móvil",
+      "Java & Spring Boot",
+      "React Native & Expo",
+      "Trabajo colaborativo con Scrum"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "Finales de 2024 — Inicios de 2025",
+      "year": "2024–2025",
+      "type": "project",
+      "title": "EcoCapi",
+      "subtitle": "Sistema de gestión para centros de reciclaje",
+      "description": "Aplicación de escritorio desarrollada para apoyar la gestión de centros de reciclaje del país.",
+      "role": "Desarrollo de software",
+      "technologies": [
+        "Java",
+        "MVC",
+        "Java Swing",
+        "JavaFX",
+        "MySQL",
+        "MariaDB"
+      ],
+      "icon": "recycle"
+    },
+    {
+      "date": "Resto de 2025",
+      "year": "2025",
+      "type": "project",
+      "title": "LactaCare",
+      "subtitle": "Sistema inteligente para salas de apoyo a la lactancia",
+      "description": "Sistema web, móvil e IoT para apoyar la gestión de salas de lactancia, el almacenamiento y refrigeración de leche materna y el monitoreo constante de temperatura.",
+      "role": "Frontend, backend e IoT",
+      "technologies": [
+        "Angular",
+        "TypeScript",
+        "Bootstrap",
+        "Spring Boot",
+        "MySQL",
+        "Google Cloud",
+        "Arduino IDE",
+        "Scrum"
+      ],
+      "icon": "heartPulse"
+    },
+    {
+      "date": "Noviembre 2025 — Enero 2026",
+      "year": "2025–2026",
+      "type": "experience",
+      "title": "Gesinsoft (APECS)",
+      "subtitle": "Practicante de Desarrollo de Software",
+      "description": "Participación en el desarrollo de un sistema de facturación móvil y web sobre Odoo y PostgreSQL.",
+      "role": "Prácticas profesionales",
+      "technologies": [
+        "Flutter",
+        "React",
+        "JavaScript",
+        "Odoo",
+        "PostgreSQL"
+      ],
+      "icon": "briefcase"
+    },
+    {
+      "date": "2026",
+      "year": "2026",
+      "type": "project",
+      "title": "SAPia",
+      "subtitle": "Plataforma web y móvil para denuncias ciudadanas",
+      "description": "Aplicación para la creación, recepción, gestión y seguimiento de denuncias ciudadanas, con herramientas de IA para apoyar la creación de denuncias y su flujo de atención.",
+      "role": "Desarrollo móvil",
+      "technologies": [
+        "React Native",
+        "Expo",
+        "TypeScript",
+        "TanStack Query",
+        "Spring Boot",
+        "PostgreSQL",
+        "Scrum"
+      ],
+      "icon": "smartphone"
+    },
+    {
+      "date": "Noviembre 2026",
+      "year": "2026",
+      "type": "education",
+      "title": "Graduación",
+      "subtitle": "Tecnólogo en Desarrollo de Software",
+      "description": "Culminación de la carrera de Tecnología Superior en Desarrollo de Software en el Instituto Tecnológico Superior del Azuay.",
+      "role": "Instituto Tecnológico Superior del Azuay",
+      "technologies": [],
+      "icon": "graduationCap"
+    }
+  ],
+  "skills": {
+    "title": "Habilidades",
+    "categories": [
+      {
+        "name": "Lenguajes",
+        "items": [
+          "Java",
+          "JavaScript",
+          "TypeScript",
+          "SQL",
+          "PL/SQL"
+        ]
+      },
+      {
+        "name": "Frontend",
+        "items": [
+          "React",
+          "Angular",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Backend",
+        "items": [
+          "Spring Boot",
+          "APIs REST"
+        ]
+      },
+      {
+        "name": "Desarrollo móvil",
+        "items": [
+          "React Native",
+          "Expo",
+          "Flutter",
+          "TanStack Query"
+        ]
+      },
+      {
+        "name": "Bases de datos",
+        "items": [
+          "PostgreSQL",
+          "MySQL",
+          "MariaDB",
+          "MongoDB"
+        ]
+      },
+      {
+        "name": "Herramientas y otros",
+        "items": [
+          "Git",
+          "Docker",
+          "Odoo",
+          "Google Cloud",
+          "Arduino",
+          "Scrum"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hablemos",
+    "description": "Estoy abierto a oportunidades junior, proyectos y colaboraciones donde pueda seguir creciendo como desarrollador de software.",
+    "emailLabel": "Correo electrónico",
+    "githubLabel": "GitHub",
+    "linkedinLabel": "LinkedIn",
+    "availability": "Disponible para oportunidades Junior Software Developer"
+  },
+  "footer": "Diseñado y desarrollado por Marcelo Urgilez."
+}
